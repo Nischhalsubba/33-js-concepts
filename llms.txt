@@ -1,0 +1,38 @@
+# 33 JavaScript Concepts Archive
+
+This repository is a local copy of the open-source project **33 Concepts Every JavaScript Developer Should Know**.
+
+## Canonical upstream project
+
+- Original project: https://github.com/leonardomso/33-js-concepts
+- Original maintainer: Leonardo Maldonado
+- Original inspiration: Stephen Curtis's article on JavaScript fundamentals
+- License: MIT
+
+## Status
+
+This repository is not the canonical source, official issue tracker, or authoritative update channel for the project.
+
+The collection contains links to third-party articles, videos, books, and documentation. Those resources may move, change, become outdated, or use licenses separate from this repository's MIT license.
+
+For current links, translations, contributions, and project history, use the upstream repository.
+
+## Learning scope
+
+The collection covers 33 JavaScript topics including:
+
+- call stack and execution context
+- primitive and reference values
+- coercion and equality
+- scope and closures
+- modules and namespaces
+- event loop and timers
+- prototypes and classes
+- functional programming concepts
+- promises and async/await
+- data structures and algorithms
+- design patterns and clean code
+
+## Local copy
+
+https://github.com/Nischhalsubba/33-js-concepts
