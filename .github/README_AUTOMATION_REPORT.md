@@ -4,4 +4,4 @@ Repository: `Nischhalsubba/33-js-concepts`
 
 | Branch | Result | Detail |
 |---|---|---|
-| `master` | updated | Branch-specific README committed |
+| `master` | unchanged | README already matched the standard |
