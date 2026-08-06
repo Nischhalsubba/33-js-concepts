@@ -1,4 +1,83 @@
-﻿<h1 align="center">
+# 33-js-concepts
+
+<!-- interactive-readme-standard:start -->
+
+> [!NOTE]
+> **Branch-specific documentation:** this section is maintained for [`master`](https://github.com/Nischhalsubba/33-js-concepts/tree/master). It is generated from the files present on this branch and preserves the project-authored README below.
+
+<details open>
+<summary><strong>Interactive repository guide</strong></summary>
+
+## Branch overview
+
+| Item | Value |
+|---|---|
+| Repository | [`Nischhalsubba/33-js-concepts`](https://github.com/Nischhalsubba/33-js-concepts) |
+| Branch | [`master`](https://github.com/Nischhalsubba/33-js-concepts/tree/master) |
+| Detected stack | JavaScript |
+| Detected manifests | package.json |
+| Documentation policy | Every maintained branch must explain purpose, setup, structure, architecture, flows, testing, delivery, security, and ownership. |
+
+## Repository structure
+
+```mermaid
+flowchart TD
+    ROOT["33-js-concepts / master"]
+    ROOT --> P0[".github/"]
+    ROOT --> P1[".gitignore"]
+    ROOT --> P2[".travis.yml"]
+    ROOT --> P3["index.js"]
+    ROOT --> P4["LICENSE"]
+    ROOT --> P5["llms.txt"]
+    ROOT --> P6["package.json"]
+```
+
+The diagram is generated from the branch's actual top-level files and directories. Use the branch link above for complete source navigation.
+
+## Website or application structure
+
+```mermaid
+flowchart TD
+    APP["33-js-concepts"]
+    APP --> SOURCE["No conventional route directory detected"]
+    SOURCE --> VERIFY["Inspect the project-specific documentation below"]
+```
+
+## Application and responsibility flow
+
+```mermaid
+flowchart LR
+    ACTOR["User / contributor"]
+    ACTOR --> A0["Delivery: .github"]
+    A0 --> DELIVERY["Delivery: GitHub Actions"]
+```
+
+## Change-to-delivery flow
+
+```mermaid
+flowchart LR
+    CHANGE["Change on master"]
+    CHECK["Validate: npm run test"]
+    REVIEW["Review documentation and architecture impact"]
+    RELEASE["Merge, release, or deploy according to this branch"]
+    CHANGE --> CHECK --> REVIEW --> RELEASE
+```
+
+## README requirements for this branch
+
+- Explain what this branch contains and how it differs from the default branch.
+- Keep installation, configuration, usage, testing, deployment, security, support, and license information accurate.
+- Document repository, website or application, API, data, authentication, background-job, and deployment flows when they exist.
+- Prefer Mermaid diagrams and expandable `<details>` sections for visual navigation.
+- Link diagrams and modules to real source paths; never invent missing components.
+- Preserve project-specific documentation and update diagrams whenever architecture or major paths change.
+- Treat secrets, private infrastructure, customer data, and credentials as prohibited README content.
+
+</details>
+
+<!-- interactive-readme-standard:end -->
+
+<h1 align="center">
 <br>
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
