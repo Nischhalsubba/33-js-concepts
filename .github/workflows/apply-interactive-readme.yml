@@ -2,9 +2,14 @@ name: Apply interactive README standard
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * 0"
   push:
-    paths:
-      - .github/workflows/apply-interactive-readme.yml
+    branches:
+      - master
+    paths-ignore:
+      - README.md
+      - .github/README_AUTOMATION_REPORT.md
 
 permissions:
   contents: write
