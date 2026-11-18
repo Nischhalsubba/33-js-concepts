@@ -84,3 +84,7 @@ flowchart LR
 ```
 
 Keep examples small, explain *why* behavior occurs, and avoid turning concept notes into unnecessary framework demos.
+
+## Contributing lessons
+
+Follow the [concept contribution and testing guide](docs/CONCEPT_CONTRIBUTION_GUIDE.md) when improving explanations or adding runnable JavaScript examples.
